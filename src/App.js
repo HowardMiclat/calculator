@@ -72,7 +72,7 @@ function App() {
         result = parseInt(num1) - parseInt(num2);
       } else if (op === "*") {
         result = parseInt(num1) * parseInt(num2);
-      } else if (op === "/") {
+      } else if (op === "÷") {
         result = parseInt(num1) / parseInt(num2);
       } else {
       result = "ERROR";
