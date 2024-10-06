@@ -122,10 +122,10 @@ function App() {
           <Key label={2} ClickHandler={numClickHandler} />
           <Key label={3} ClickHandler={numClickHandler} />
           <Key label={'*'} ClickHandler={opClickHandler} />
-          <Key label={'clr'} ClickHandler={clrClickHandler} />
+          <Key label={'C'} ClickHandler={clrClickHandler} />
           <Key label={0} ClickHandler={numClickHandler} />
           <Key label={'='} ClickHandler={eqClickHandler} />
-          <Key label={'/'} ClickHandler={opClickHandler} />
+          <Key label={'÷'} ClickHandler={opClickHandler} />
           
            </div>
            <div className='Surnamebutton'>
